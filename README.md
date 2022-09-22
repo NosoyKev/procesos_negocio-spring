@@ -1,2 +1,2 @@
-# procesos_negocio-spring
-Proyecto para la clase  de proceso de negocio usando el framwork de spring boot
+# procesos_negocio_spring
+Proyecto para la clase de procesos de negocio usando el frame work de spring boot
